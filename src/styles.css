@@ -3,3 +3,13 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+
+
+.scroll-bacground {
+    background-color: #E4B8AD;
+    height: 100vh;
+    width: 50vw;
+    text-align: center;
+}

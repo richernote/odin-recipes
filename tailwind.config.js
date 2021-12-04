@@ -6,8 +6,11 @@ module.exports = {
       colors: {
         eggshell: '#F5F5F6',
         shellpink: '#E4B8AD',
+        bblue: '#4E8C95',
       },
-
+      fontFamily: {
+        Corinthia: ['Corinthia', 'cursive'],
+      }
     },
   },
   variants: {
